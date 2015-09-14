@@ -1,0 +1,1 @@
+-refresh 100 -noforcemspd -noforcemparms -noforcemaccel -nopause -novid -tickrate 128 -high -threads 6 +exec autoexec.cfg
