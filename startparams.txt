@@ -1,1 +1,1 @@
--console -32bit -dxlevel 8 -cl_forcepreload 0 -cl_disablehtmlmotd 1 -noforcemspd -noforcemparms -noforcemaccel -novid -tickrate 128 -high -threads 6 +exec autoexec.cfg
+-noforcemspd -noforcemparms -noforcemaccel -nopause -novid -tickrate 128 -high -threads 6 -maxplayers_override 16 +exec autoexec.cfg
